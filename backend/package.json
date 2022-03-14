@@ -1,0 +1,23 @@
+{
+  "name": "webrakapug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "backend.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bestnutapol/webrakapug.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bestnutapol/webrakapug/issues"
+  },
+  "homepage": "https://github.com/bestnutapol/webrakapug#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
